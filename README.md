@@ -1,4 +1,4 @@
-# This is my repository
+# How to use Github
 
 # How to create new file in github
 Step 1: Create new repository in github 
